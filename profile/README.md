@@ -42,6 +42,7 @@ top objections and the edits that change the outcome.
 | Repo | What |
 | :--- | :--- |
 | [`website`](https://github.com/shoal-ing/website) | The landing site. Static HTML, one CSS, one JS, a Cloudflare Worker with static assets |
+| `waitlist-backend` (private) | The early-access waitlist at `api.shoal.ing`: a Cloudflare Worker on the Cratefield harness, with its own D1 database |
 | `.github` | This profile |
 
 Questions, or an enterprise that wants it self-hosted: **contact@shoal.ing**
